@@ -1,0 +1,13 @@
+{
+  "priceMoreInformationDetails": "details.pdf",
+  "level1Hero": "level1",
+  "level2Hero": "level2",
+  "productDetailsPageUrl": "detailsURL",
+  "productInformationDownloadUrl": "downloadURL",
+  "priceMoreInformationHeader": "headerInformation",
+  "productDetailsLinkText": "Link",
+  "validFor": {
+    "startDateTime": "12.12.12",
+    "endDateTime": "20.12.12"
+  }
+}

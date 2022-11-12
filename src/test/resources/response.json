@@ -1,0 +1,28 @@
+[{
+  "priceMoreInformationDetails": "details.pdf",
+  "level1Hero": "level1",
+  "level2Hero": "level2",
+  "productDetailsPageUrl": "detailsURL",
+  "productInformationDownloadUrl": "downloadURL",
+  "priceMoreInformationHeader": "headerInformation",
+  "productDetailsLinkText": "Link",
+  "price": "19.99",
+  "validFor": {
+    "startDateTime": "2012-12-12T12:12:12",
+    "endDateTime": "2012-12-20T12:12:12"
+  }
+},
+  {
+    "priceMoreInformationDetails": "det.pdf",
+    "level1Hero": "level1235678",
+    "level2Hero": "level234",
+    "price": "19.99",
+    "productDetailsPageUrl": "detailsURLfars",
+    "productInformationDownloadUrl": "downloadURLfars",
+    "priceMoreInformationHeader": "headerInformationfars",
+    "productDetailsLinkText": "LinkLink",
+    "validFor": {
+      "startDateTime": "2012-10-12T12:12:12",
+      "endDateTime": "2012-10-20T12:12:12"
+    }
+  }]
